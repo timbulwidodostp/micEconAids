@@ -1,6 +1,8 @@
 # micEconAids
 Almost ideal demand systems (AIDS) Use micEconAids With (In) R Software
 
+https://www.youtube.com/watch?v=ojKZHKaTGe4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
