@@ -3,7 +3,9 @@
 # IG : @olahdatasemarang_
 # Almost ideal demand systems (AIDS) Use micEconAids With (In) R Software
 install.packages("micEconAids")
+install.packages("carData")
 library("micEconAids")
+library("carData")
 # Import Data Csv Into R From Github Olah Data Semarang (timbulwidodostp)
 micEconAids=read.csv("https://github.com/timbulwidodostp/micEconAids/raw/main/micEconAids/micEconAids.csv",sep = ";")
 # Estimate Almost ideal demand systems (AIDS) Use micEconAids With (In) R Software
